@@ -8,7 +8,7 @@ namespace LeThiThuHuyen_6551071037_VP101_LTTQ
     public partial class Form1 : Form
     {
 
-        private string connectionString = @"Data Source=KHUONGSOSAD\SQLEXPRESS;Initial Catalog=DuLieu;User ID=sa;Password=12345";
+        private string connectionString = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=DuLieu;User ID=sa;Password=12345";
 
         public Form1()
         {
